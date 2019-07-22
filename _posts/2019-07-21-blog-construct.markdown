@@ -18,7 +18,7 @@
 
 - 创建一个git仓库 (注意: 仓库名格式为 user_name.github.io)
 
-![创建一个git仓库]({{ site.url }}/assets/CreateRepository.jpg)
+![创建一个git仓库](/assets/CreateRepository.jpg)
 
 - 为了降低搭建难度，建议 fork 别人在GitHub上已搭建的博客加以改进或者在[Jekyll模板站点](http://jekyllthemes.org/)下载自己喜欢的模板
 
